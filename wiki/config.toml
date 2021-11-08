@@ -1,0 +1,4 @@
+baseURL = 'https://wiki.github.io/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'hugo-clarity'
