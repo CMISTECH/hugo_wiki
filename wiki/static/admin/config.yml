@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: CMISTECH/hugo_wiki
-  branch: master
+  branch: main
 media_folder: "wiki/static/img" # Folder where user uploaded files should go
 public_folder: "images"
 collections:
